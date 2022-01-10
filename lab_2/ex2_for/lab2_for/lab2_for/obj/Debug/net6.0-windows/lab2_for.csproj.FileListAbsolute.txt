@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\bin\Debug\net6.0-windows\lab2_for.exe
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\bin\Debug\net6.0-windows\lab2_for.deps.json
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\bin\Debug\net6.0-windows\lab2_for.runtimeconfig.json
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\bin\Debug\net6.0-windows\lab2_for.dll
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\bin\Debug\net6.0-windows\ref\lab2_for.dll
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\bin\Debug\net6.0-windows\lab2_for.pdb
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.Form1.resources
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.AssemblyInfo.cs
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.dll
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\ref\lab2_for.dll
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.pdb
+\\Mac\Home\Desktop\c_sharp2\lab_2\ex2_for\lab2_for\lab2_for\obj\Debug\net6.0-windows\lab2_for.genruntimeconfig.cache
